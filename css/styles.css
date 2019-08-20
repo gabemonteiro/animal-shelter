@@ -1,0 +1,36 @@
+.description {
+  font-style: italic;
+}
+
+.cats {
+  float: left;
+  width: 300px;
+  margin-left: 20%;
+}
+
+.cats img {
+  width: 100%;
+}
+
+.names {
+  font-size: 30px;
+  text-align: center;
+}
+
+.column {
+  font-size: 50px;
+  text-align: center;
+}
+
+.title {
+  font-size: 100px;
+  font-family: fantasy;
+}
+
+.p {
+  font-size: 20px;
+}
+
+body {
+  background-color: #D3F555;
+}
